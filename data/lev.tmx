@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="82" height="7" tilewidth="48" tileheight="48" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="Medieval_tiles_free2.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="82" height="7">
+  <data encoding="base64" compression="zlib">
+   eJzVlU1OwzAQhSelVOICwAJKN2y4A6pYcgDgBvxuuk0oIMGGHAM4DbDror1EewdeVFt6sjzuuFSgjvTJHnsymXlxkkJEigxaCh2wDXbc6OkFvsYzeAnWHsAjeFJyW/KEObZcvRugDTapr11jrTFCneoFvpbnUNbD9kEXHMhc0+b5t91YE5YzZY2LMTLWe1T8otlM20vcaxr4fZqzpj3J12UVOh6DSaIvrbcZ9T1z/KX1iRPiVOLvIp/PmJ+rrd9vdHwD7+BjiT5SGlttnNirM/KcgXNwAUrRv2mLRquWvN7o+Am+wLdSn9cqxX8Za3cDbsGd2M9fytfOcixmEHAPLsFQ5s+0cmtD2rsC1270171Gcg0orqK1kuZVEF8GuXjf18GxrB3/s1tKPVZ+AG2yVPc=
+  </data>
+ </layer>
+</map>
